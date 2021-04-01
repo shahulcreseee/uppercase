@@ -1,4 +1,4 @@
-# Case Change
+# Anything To Uppercase
 
 > Convert String in  Object,Array or Plain String to  `uppercase`.
 
