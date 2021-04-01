@@ -17,5 +17,11 @@
         "upper-cases"
     ],
     "author": "Shahul Hameed Buhari",
+    "homepage": "https://github.com/shahulcreseee/uppercase/",
+    "bugs": "https://github.com/shahulcreseee/uppercase/issues",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shahulcreseee/uppercase.git"
+    },
     "license": "MIT"
 }
